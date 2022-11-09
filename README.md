@@ -18,10 +18,10 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![Contributors][contributors-shield]][https://github.com/Laioxx/Keylogger-by-Laiox/graphs/contributors]
-[![Forks][forks-shield]][https://github.com/Laioxx/Keylogger-by-Laiox/network/members]
-[![Stargazers][stars-shield]][https://github.com/Laioxx/Keylogger-by-Laiox/stargazers]
-[![Issues][issues-shield]][https://github.com/Laioxx/Keylogger-by-Laiox/issues]
+[![Contributors][contributors-shield]][github.com/Laioxx/Keylogger-by-Laiox/graphs/contributors]
+[![Forks][forks-shield]][github.com/Laioxx/Keylogger-by-Laiox/network/members]
+[![Stargazers][stars-shield]][github.com/Laioxx/Keylogger-by-Laiox/stargazers]
+[![Issues][issues-shield]][github.com/Laioxx/Keylogger-by-Laiox/issues]
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
