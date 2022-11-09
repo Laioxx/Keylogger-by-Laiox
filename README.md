@@ -18,10 +18,10 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
+[![Contributors][contributors-shield]][https://github.com/Laioxx/Keylogger-by-Laiox/graphs/contributors]
+[![Forks][forks-shield]][https://github.com/Laioxx/Keylogger-by-Laiox/network/members]
+[![Stargazers][stars-shield]][https://github.com/Laioxx/Keylogger-by-Laiox/stargazers]
+[![Issues][issues-shield]][https://github.com/Laioxx/Keylogger-by-Laiox/issues]
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
@@ -30,7 +30,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/github_username/repo_name">
+  <a href="https://github.com/Laioxx/Keylogger-by-Laiox">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -39,14 +39,14 @@
   <p align="center">
     project_description
     <br />
-    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/Laioxx/Keylogger-by-Laiox"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/github_username/repo_name">View Demo</a>
+    <a href="https://github.com/Laioxx/Keylogger-by-Laiox">View Demo</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
+    <a href="https://github.com/Laioxx/Keylogger-by-Laiox/issues">Report Bug</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
+    <a href="https://github.com/Laioxx/Keylogger-by-Laiox/issues">Request Feature</a>
   </p>
 </div>
 
@@ -57,7 +57,7 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#about-the-project">About The Project</a>
+      <a href="Keylogger">About The Project</a>
       <ul>
         <li><a href="#built-with">Built With</a></li>
       </ul>
